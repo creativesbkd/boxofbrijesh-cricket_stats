@@ -1,0 +1,33 @@
+{
+  "batting": {
+    "matches": 274,
+    "innings": 240,
+    "runs": 5693,
+    "average": 26.36,
+    "strikeRate": 201.10,
+    "highestScore": 115,
+    "fifties": 28,
+    "hundreds": 5,
+    "fours": 411,
+    "sixes": 508
+  },
+  "bowling": {
+    "matches": 274,
+    "innings": 58,
+    "overs": 114.1,
+    "runs": 1286,
+    "wickets": 52,
+    "best": "5/45",
+    "economy": 11.26,
+    "strikeRate": 13.17,
+    "threeWickets": 5,
+    "fiveWickets": 1
+  },
+  "fielding": {
+    "matches": 274,
+    "catches": 104,
+    "runOuts": 9,
+    "stumpings": 33,
+    "assistRunOuts": 32
+  }
+}
